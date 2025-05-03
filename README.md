@@ -41,5 +41,13 @@ Install dependencies:
 
 Run the development server
 
-    npm start
->>>>>>> 62bdeb1 (Initial commit - PG Room Booking App)
+    npm staRT
+
+
+![image](https://github.com/user-attachments/assets/015c58f1-e5d6-49f5-889c-61078ace6ee8)
+![image](https://github.com/user-attachments/assets/aed20e16-65ea-40df-bd95-56363f2be8ad)
+
+![image](https://github.com/user-attachments/assets/e0d5c17a-1082-4772-8916-48033477806e)
+
+
+
