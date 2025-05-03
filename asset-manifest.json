@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pg-listing-portal/static/css/main.db9a79c6.css",
+    "main.js": "/pg-listing-portal/static/js/main.88ec4078.js",
+    "index.html": "/pg-listing-portal/index.html",
+    "main.db9a79c6.css.map": "/pg-listing-portal/static/css/main.db9a79c6.css.map",
+    "main.88ec4078.js.map": "/pg-listing-portal/static/js/main.88ec4078.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db9a79c6.css",
+    "static/js/main.88ec4078.js"
+  ]
+}
