@@ -44,6 +44,9 @@ Run the development server
     npm staRT
 
 
+BASED ON YOUR REQUIREMENTS I DO THIS !!
+
+
 ![image](https://github.com/user-attachments/assets/015c58f1-e5d6-49f5-889c-61078ace6ee8)
 ![image](https://github.com/user-attachments/assets/aed20e16-65ea-40df-bd95-56363f2be8ad)
 
